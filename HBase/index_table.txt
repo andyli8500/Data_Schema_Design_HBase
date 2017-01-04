@@ -1,0 +1,1027 @@
+
+##################################
+#          INDEX TABLE           #
+##################################
+
+create 'jili2506:index', 'c', {NAME=>'t', VERSIONS=>3}, 'f'
+
+# 1
+put 'jili2506:index', 'u275/f2/aMorcheeba', 'c:weight', 11690
+put 'jili2506:index', 'u275/f2/aMorcheeba', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/46005111.png'
+put 'jili2506:index', 'u275/f2/aMorcheeba', 'c:url', 'http://www.last.fm/music/Morcheeba'
+put 'jili2506:index', 'u275/f2/aMorcheeba', 't:chillout', 1238536800000
+put 'jili2506:index', 'u275/f2/aMorcheeba', 't:downtempo', 1228536800000
+put 'jili2506:index', 'u275/f2/aMorcheeba', 't:electronic', 1238536800000
+
+put 'jili2506:index', 'u275/f2/aChina Crisis', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/13224571.jpg'
+put 'jili2506:index', 'u275/f2/aChina Crisis', 'c:url', 'http://www.last.fm/music/China+Crisis'
+put 'jili2506:index', 'u275/f2/aChina Crisis', 't:new wave', 1241128800000
+put 'jili2506:index', 'u275/f2/aChina Crisis', 't:synth pop', 1241128800000
+put 'jili2506:index', 'u275/f2/aChina Crisis', 't:classic 80s', 1241128800000
+
+put 'jili2506:index', 'u428/f2/aMorcheeba', 'c:weight', 11690
+put 'jili2506:index', 'u428/f2/aMorcheeba', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/46005111.png'
+put 'jili2506:index', 'u428/f2/aMorcheeba', 'c:url', 'http://www.last.fm/music/Morcheeba'
+put 'jili2506:index', 'u428/f2/aMorcheeba', 't:chillout', 1238536800000
+put 'jili2506:index', 'u428/f2/aMorcheeba', 't:downtempo', 1238536800000
+put 'jili2506:index', 'u428/f2/aMorcheeba', 't:electronic', 1238536800000
+
+put 'jili2506:index', 'u428/f2/aChina Crisis', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/13224571.jpg'
+put 'jili2506:index', 'u428/f2/aChina Crisis', 'c:url', 'http://www.last.fm/music/China+Crisis'
+put 'jili2506:index', 'u428/f2/aChina Crisis', 't:new wave', 1241128800000
+put 'jili2506:index', 'u428/f2/aChina Crisis', 't:synth pop', 1241128800000
+put 'jili2506:index', 'u428/f2/aChina Crisis', 't:classic 80s', 1241128800000
+
+
+# 3
+put 'jili2506:index', 'u78/f3/aPleq', 'c:weight', 13176
+put 'jili2506:index', 'u78/f3/aPleq', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/58414481.jpg'
+put 'jili2506:index', 'u78/f3/aPleq', 'c:url', 'http://www.last.fm/music/Pleq'
+put 'jili2506:index', 'u78/f3/aPleq', 't:ambient', 1264978800000
+put 'jili2506:index', 'u78/f3/aPleq', 't:downtempo', 1235862000000
+put 'jili2506:index', 'u78/f3/aPleq', 't:avant-garde', 1233442800000
+
+put 'jili2506:index', 'u78/f3/aGo Koyashiki', 'c:weight', 236
+put 'jili2506:index', 'u78/f3/aGo Koyashiki', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/58277441.jpg'
+put 'jili2506:index', 'u78/f3/aGo Koyashiki', 'c:url', 'http://www.last.fm/music/Go+Koyashiki'
+put 'jili2506:index', 'u78/f3/aGo Koyashiki', 't:experimental', 1233442800000
+put 'jili2506:index', 'u78/f3/aGo Koyashiki', 't:melancholy', 1254348000000
+put 'jili2506:index', 'u78/f3/aGo Koyashiki', 't:october man recordings', 1233442800000
+
+put 'jili2506:index', 'u460/f3/aPleq', 'c:weight', 13176
+put 'jili2506:index', 'u460/f3/aPleq', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/58414481.jpg'
+put 'jili2506:index', 'u460/f3/aPleq', 'c:url', 'http://www.last.fm/music/Pleq'
+put 'jili2506:index', 'u460/f3/aPleq', 't:ambient', 12649460800000
+put 'jili2506:index', 'u460/f3/aPleq', 't:downtempo', 1235862000000
+put 'jili2506:index', 'u460/f3/aPleq', 't:avant-garde', 1233442800000
+
+put 'jili2506:index', 'u460/f3/aGo Koyashiki', 'c:weight', 236
+put 'jili2506:index', 'u460/f3/aGo Koyashiki', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/58277441.jpg'
+put 'jili2506:index', 'u460/f3/aGo Koyashiki', 'c:url', 'http://www.last.fm/music/Go+Koyashiki'
+put 'jili2506:index', 'u460/f3/aGo Koyashiki', 't:experimental', 1233442800000
+put 'jili2506:index', 'u460/f3/aGo Koyashiki', 't:melancholy', 1254348000000
+put 'jili2506:index', 'u460/f3/aGo Koyashiki', 't:october man recordings', 1233442800000
+
+
+
+# 5
+put 'jili2506:index', 'u228/f5/aAir', 'c:weight', 181
+put 'jili2506:index', 'u228/f5/aAir', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/251119.jpg'
+put 'jili2506:index', 'u228/f5/aAir', 'c:url', 'http://www.last.fm/music/Air'
+put 'jili2506:index', 'u228/f5/aAir', 't:autumn', 1207000800000
+
+put 'jili2506:index', 'u228/f5/aThe Tiger Lillies', 'c:weight', 826
+put 'jili2506:index', 'u228/f5/aThe Tiger Lillies', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/251119.jpg'
+put 'jili2506:index', 'u228/f5/aThe Tiger Lillies', 'c:url', 'http://www.last.fm/music/Air'
+put 'jili2506:index', 'u228/f5/aThe Tiger Lillies', 't:autumn', 1207000800000
+
+put 'jili2506:index', 'u228/f5/aCAKE', 'c:weight', 298
+put 'jili2506:index', 'u228/f5/aCAKE', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/12825895.gif'
+put 'jili2506:index', 'u228/f5/aCAKE', 'c:url', 'http://www.last.fm/music/CAKE'
+put 'jili2506:index', 'u228/f5/aCAKE', 't:autumn', 1207000800000
+
+put 'jili2506:index', 'u228/f5/aRed Hot Chili Peppers', 'c:weight', 192
+put 'jili2506:index', 'u228/f5/aRed Hot Chili Peppers', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/155038.jpg'
+put 'jili2506:index', 'u228/f5/aRed Hot Chili Peppers', 'c:url', 'http://www.last.fm/music/Red+Hot+Chili+Peppers'
+put 'jili2506:index', 'u228/f5/aRed Hot Chili Peppers', 't:winter', 1280613600000
+
+put 'jili2506:index', 'u1271/f5/aAir', 'c:weight', 181
+put 'jili2506:index', 'u1271/f5/aAir', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/251119.jpg'
+put 'jili2506:index', 'u1271/f5/aAir', 'c:url', 'http://www.last.fm/music/Air'
+put 'jili2506:index', 'u1271/f5/aAir', 't:autumn', 1207000800000
+
+put 'jili2506:index', 'u1271/f5/aThe Tiger Lillies', 'c:weight', 826
+put 'jili2506:index', 'u1271/f5/aThe Tiger Lillies', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/251119.jpg'
+put 'jili2506:index', 'u1271/f5/aThe Tiger Lillies', 'c:url', 'http://www.last.fm/music/Air'
+put 'jili2506:index', 'u1271/f5/aThe Tiger Lillies', 't:autumn', 1207000800000
+
+put 'jili2506:index', 'u1271/f5/aCAKE', 'c:weight', 298
+put 'jili2506:index', 'u1271/f5/aCAKE', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/12825895.gif'
+put 'jili2506:index', 'u1271/f5/aCAKE', 'c:url', 'http://www.last.fm/music/CAKE'
+put 'jili2506:index', 'u1271/f5/aCAKE', 't:autumn', 1207000800000
+
+put 'jili2506:index', 'u1271/f5/aRed Hot Chili Peppers', 'c:weight', 192
+put 'jili2506:index', 'u1271/f5/aRed Hot Chili Peppers', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/155038.jpg'
+put 'jili2506:index', 'u1271/f5/aRed Hot Chili Peppers', 'c:url', 'http://www.last.fm/music/Red+Hot+Chili+Peppers'
+put 'jili2506:index', 'u1271/f5/aRed Hot Chili Peppers', 't:winter', 1280613600000
+
+
+# 6
+put 'jili2506:index', 'u1271/f6/aTeta Lando', 'c:weight', 34
+put 'jili2506:index', 'u1271/f6/aTeta Lando', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/57587349.jpg'
+put 'jili2506:index', 'u1271/f6/aTeta Lando', 'c:url', 'http://www.last.fm/music/Teta+Lando'
+put 'jili2506:index', 'u1271/f6/aTeta Lando', 't:kwasa', 1293836400000
+put 'jili2506:index', 'u1271/f6/aTeta Lando', 't:semba', 1293836400000
+put 'jili2506:index', 'u1271/f6/aTeta Lando', 't:angola', 1293836400000
+put 'jili2506:index', 'u1271/f6/aTeta Lando', 't:world music', 1293836400000
+
+put 'jili2506:index', 'u1271/f6/aFlagelo Urbano', 'c:weight', 33
+put 'jili2506:index', 'u1271/f6/aFlagelo Urbano', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/57586835.jpg'
+put 'jili2506:index', 'u1271/f6/aFlagelo Urbano', 'c:url', 'http://www.last.fm/music/Flagelo+Urbano'
+put 'jili2506:index', 'u1271/f6/aFlagelo Urbano', 't:luso hip hop', 1228086000000
+put 'jili2506:index', 'u1271/f6/aFlagelo Urbano', 't:underground hip hp', 1293836400000
+
+put 'jili2506:index', 'u1271/f6/aEPMD', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/50709513.jpg'
+put 'jili2506:index', 'u1271/f6/aEPMD', 'c:url', 'http://www.last.fm/music/EPMD'
+put 'jili2506:index', 'u1271/f6/aEPMD', 't:hip-hop', 1228086000000
+put 'jili2506:index', 'u1271/f6/aEPMD', 't:rap', 1228086000000
+put 'jili2506:index', 'u1271/f6/aEPMD', 't:new york', 1228086000000
+
+put 'jili2506:index', 'u1697/f6/aTeta Lando', 'c:weight', 34
+put 'jili2506:index', 'u1697/f6/aTeta Lando', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/57587349.jpg'
+put 'jili2506:index', 'u1697/f6/aTeta Lando', 'c:url', 'http://www.last.fm/music/Teta+Lando'
+put 'jili2506:index', 'u1697/f6/aTeta Lando', 't:kwasa', 1293836400000
+put 'jili2506:index', 'u1697/f6/aTeta Lando', 't:semba', 1293836400000
+put 'jili2506:index', 'u1697/f6/aTeta Lando', 't:angola', 1293836400000
+put 'jili2506:index', 'u1697/f6/aTeta Lando', 't:world music', 1293836400000
+
+put 'jili2506:index', 'u1697/f6/aFlagelo Urbano', 'c:weight', 33
+put 'jili2506:index', 'u1697/f6/aFlagelo Urbano', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/57586835.jpg'
+put 'jili2506:index', 'u1697/f6/aFlagelo Urbano', 'c:url', 'http://www.last.fm/music/Flagelo+Urbano'
+put 'jili2506:index', 'u1697/f6/aFlagelo Urbano', 't:luso hip hop', 1228086000000
+put 'jili2506:index', 'u1697/f6/aFlagelo Urbano', 't:underground hip hp', 1293836400000
+
+put 'jili2506:index', 'u1697/f6/aEPMD', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/50709513.jpg'
+put 'jili2506:index', 'u1697/f6/aEPMD', 'c:url', 'http://www.last.fm/music/EPMD'
+put 'jili2506:index', 'u1697/f6/aEPMD', 't:hip-hop', 1228086000000
+put 'jili2506:index', 'u1697/f6/aEPMD', 't:rap', 1228086000000
+put 'jili2506:index', 'u1697/f6/aEPMD', 't:new york', 1228086000000
+
+
+# 275
+put 'jili2506:index', 'u2/f275/aTimbaland', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/40255265.png'
+put 'jili2506:index', 'u2/f275/aTimbaland', 'c:url', 'http://www.last.fm/music/Timbaland'
+put 'jili2506:index', 'u2/f275/aTimbaland', 't:awesome', 1222812000000
+
+put 'jili2506:index', 'u2/f275/aRay LaMontagne', 'c:weight', 30
+put 'jili2506:index', 'u2/f275/aRay LaMontagne', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/28260387.png'
+put 'jili2506:index', 'u2/f275/aRay LaMontagne', 'c:url', 'http://www.last.fm/music/Ray+LaMontagne'
+put 'jili2506:index', 'u2/f275/aRay LaMontagne', 't:awesome', 1233442800000
+put 'jili2506:index', 'u2/f275/aRay LaMontagne', 't:mmmm', 1233442800000
+
+put 'jili2506:index', 'u2/f275/aX-Patriate (Alan J. Lipman)', 'c:weight', 279
+put 'jili2506:index', 'u2/f275/aX-Patriate (Alan J. Lipman)', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/5362733.jpg'
+put 'jili2506:index', 'u2/f275/aX-Patriate (Alan J. Lipman)', 'c:url', 'http://www.last.fm/music/X-Patriate+28Alan+J.+Lipman%29'
+put 'jili2506:index', 'u2/f275/aX-Patriate (Alan J. Lipman)', 't:mmmm', 1222812000000
+put 'jili2506:index', 'u2/f275/aX-Patriate (Alan J. Lipman)', 't:shivers', 1222812000000
+
+
+# 428
+put 'jili2506:index', 'u2/f428/aDuran Duran', 'c:weight', 61012
+put 'jili2506:index', 'u2/f428/aDuran Duran', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/155668.jpg'
+put 'jili2506:index', 'u2/f428/aDuran Duran', 'c:url', 'http://www.last.fm/music/Duran+Duran'
+put 'jili2506:index', 'u2/f428/aDuran Duran', 't:new wave', 1249077600000
+put 'jili2506:index', 'u2/f428/aDuran Duran', 't:pop', 1249077600000
+put 'jili2506:index', 'u2/f428/aDuran Duran', 't:duran duran', 1249077600000
+
+put 'jili2506:index', 'u2/f428/aDepeche Mode', 'c:weight', 6337
+put 'jili2506:index', 'u2/f428/aDepeche Mode', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/75022.jpg'
+put 'jili2506:index', 'u2/f428/aDepeche Mode', 'c:url', 'http://www.last.fm/music/Depeche+Mode'
+put 'jili2506:index', 'u2/f428/aDepeche Mode', 't:one of the best songs ever', 1170284400000
+
+put 'jili2506:index', 'u2/f428/aThe B-52\'s', 'c:weight', 2149
+put 'jili2506:index', 'u2/f428/aThe B-52\'s', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/27600357.jpg'
+put 'jili2506:index', 'u2/f428/aThe B-52\'s', 'c:url', 'http://www.last.fm/music/The+B-5227s'
+put 'jili2506:index', 'u2/f428/aThe B-52\'s', 't:new wave', 1249077600000
+put 'jili2506:index', 'u2/f428/aThe B-52\'s', 't:80\'s', 1249077600000
+
+
+# 78
+put 'jili2506:index', 'u3/f78/aAutechre', 'c:weight', 779
+put 'jili2506:index', 'u3/f78/aAutechre', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/7725479.jpg'
+put 'jili2506:index', 'u3/f78/aAutechre', 'c:url', 'http://www.last.fm/music/Autechre'
+put 'jili2506:index', 'u3/f78/aAutechre', 't:ambient', 1222812000000
+put 'jili2506:index', 'u3/f78/aAutechre', 't:experimental', 1222812000000
+put 'jili2506:index', 'u3/f78/aAutechre', 't:idm', 1222812000000
+
+put 'jili2506:index', 'u3/f78/aB. Fleischmann', 'c:weight', 332
+put 'jili2506:index', 'u3/f78/aB. Fleischmann', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/19056737.jpg'
+put 'jili2506:index', 'u3/f78/aB. Fleischmann', 'c:url', 'http://www.last.fm/music/B.+Fleischmann'
+put 'jili2506:index', 'u3/f78/aB. Fleischmann', 't:ambient', 1222812000000
+put 'jili2506:index', 'u3/f78/aB. Fleischmann', 't:experimental', 1222812000000
+put 'jili2506:index', 'u3/f78/aB. Fleischmann', 't:idm', 1222812000000
+
+put 'jili2506:index', 'u1801/f78/aAutechre', 'c:weight', 779
+put 'jili2506:index', 'u1801/f78/aAutechre', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/7725479.jpg'
+put 'jili2506:index', 'u1801/f78/aAutechre', 'c:url', 'http://www.last.fm/music/Autechre'
+put 'jili2506:index', 'u1801/f78/aAutechre', 't:ambient', 1222812000000
+put 'jili2506:index', 'u1801/f78/aAutechre', 't:experimental', 1222812000000
+put 'jili2506:index', 'u1801/f78/aAutechre', 't:idm', 1222812000000
+
+put 'jili2506:index', 'u1801/f78/aB. Fleischmann', 'c:weight', 332
+put 'jili2506:index', 'u1801/f78/aB. Fleischmann', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/19056737.jpg'
+put 'jili2506:index', 'u1801/f78/aB. Fleischmann', 'c:url', 'http://www.last.fm/music/B.+Fleischmann'
+put 'jili2506:index', 'u1801/f78/aB. Fleischmann', 't:ambient', 1222812000000
+put 'jili2506:index', 'u1801/f78/aB. Fleischmann', 't:experimental', 1222812000000
+put 'jili2506:index', 'u1801/f78/aB. Fleischmann', 't:idm', 1222812000000
+
+
+# 460
+put 'jili2506:index', 'u3/f460/aWolfgang Amadeus Mozart', 'c:weight', 1042
+put 'jili2506:index', 'u3/f460/aWolfgang Amadeus Mozart', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/13416647.jpg'
+put 'jili2506:index', 'u3/f460/aWolfgang Amadeus Mozart', 'c:url', 'http://www.last.fm/music/Wolfgang+Amadeus+Mozart'
+
+put 'jili2506:index', 'u3/f460/aClint Mansell', 'c:weight', 252
+put 'jili2506:index', 'u3/f460/aClint Mansell', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/43698365.jpg'
+put 'jili2506:index', 'u3/f460/aClint Mansell', 'c:url', 'http://www.last.fm/music/Clint+Mansell'
+put 'jili2506:index', 'u3/f460/aClint Mansell', 't:music for my soul', 1220220000000
+
+put 'jili2506:index', 'u3/f460/aDolphin', 'c:weight', 182
+put 'jili2506:index', 'u3/f460/aDolphin', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/29266643.jpg'
+put 'jili2506:index', 'u3/f460/aDolphin', 'c:url', 'http://www.last.fm/music/Dolphin'
+put 'jili2506:index', 'u3/f460/aDolphin', 't:experimental', 1193871600000
+put 'jili2506:index', 'u3/f460/aDolphin', 't:art rock', 1222812000000
+put 'jili2506:index', 'u3/f460/aDolphin', 't:powerful', 1222812000000
+
+
+# 228
+put 'jili2506:index', 'u5/f228/aBob Dylan', 'c:weight', 17
+put 'jili2506:index', 'u5/f228/aBob Dylan', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/13979651.jpg'
+put 'jili2506:index', 'u5/f228/aBob Dylan', 'c:url', 'http://www.last.fm/music/Bob+Dylan'
+put 'jili2506:index', 'u5/f228/aBob Dylan', 't:singer-songwriter', 1170284400000
+put 'jili2506:index', 'u5/f228/aBob Dylan', 't:classic rock', 1167606000000
+put 'jili2506:index', 'u5/f228/aBob Dylan', 't:folk', 1167606000000
+put 'jili2506:index', 'u5/f228/aBob Dylan', 't:folk rock', 1170284400000
+
+put 'jili2506:index', 'u5/f228/aNeil Young', 'c:weight', 14
+put 'jili2506:index', 'u5/f228/aNeil Young', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/50538451.jpg'
+put 'jili2506:index', 'u5/f228/aNeil Young', 'c:url', 'http://www.last.fm/music/Neil+Young'
+put 'jili2506:index', 'u5/f228/aNeil Young', 't:singer-songwriter', 1167606000000
+put 'jili2506:index', 'u5/f228/aNeil Young', 't:classic rock', 1167606000000
+put 'jili2506:index', 'u5/f228/aNeil Young', 't:canadian', 1167606000000
+put 'jili2506:index', 'u5/f228/aNeil Young', 't:folk rock', 1167606000000
+
+
+# 1271
+put 'jili2506:index', 'u5/f1271/aThe Beatles', 'c:weight', 610
+put 'jili2506:index', 'u5/f1271/aThe Beatles', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/2588646.jpg'
+put 'jili2506:index', 'u5/f1271/aThe Beatles', 'c:url', 'http://www.last.fm/music/The+Beatles'
+put 'jili2506:index', 'u5/f1271/aThe Beatles', 't:1970', 1188597600000
+
+put 'jili2506:index', 'u5/f1271/aThe Who', 'c:weight', 295
+put 'jili2506:index', 'u5/f1271/aThe Who', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/361952.jpg'
+put 'jili2506:index', 'u5/f1271/aThe Who', 'c:url', 'http://www.last.fm/music/The+Who'
+put 'jili2506:index', 'u5/f1271/aThe Who', 't:1970', 1188597600000
+put 'jili2506:index', 'u5/f1271/aThe Who', 't:1969', 1188597600000
+put 'jili2506:index', 'u5/f1271/aThe Who', 't:1965', 1264978800000
+
+put 'jili2506:index', 'u6/f1271/aThe Beatles', 'c:weight', 610
+put 'jili2506:index', 'u6/f1271/aThe Beatles', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/2588646.jpg'
+put 'jili2506:index', 'u6/f1271/aThe Beatles', 'c:url', 'http://www.last.fm/music/The+Beatles'
+put 'jili2506:index', 'u6/f1271/aThe Beatles', 't:1970', 1188597600000
+
+put 'jili2506:index', 'u6/f1271/aThe Who', 'c:weight', 295
+put 'jili2506:index', 'u6/f1271/aThe Who', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/361952.jpg'
+put 'jili2506:index', 'u6/f1271/aThe Who', 'c:url', 'http://www.last.fm/music/The+Who'
+put 'jili2506:index', 'u6/f1271/aThe Who', 't:1970', 1188597600000
+put 'jili2506:index', 'u6/f1271/aThe Who', 't:1969', 1188597600000
+put 'jili2506:index', 'u6/f1271/aThe Who', 't:1965', 1264978800000
+
+
+# 1697
+put 'jili2506:index', 'u6/f1697/aPink Floyd', 'c:weight', 197
+put 'jili2506:index', 'u6/f1697/aPink Floyd', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/39219129.jpg'
+put 'jili2506:index', 'u6/f1697/aPink Floyd', 'c:url', 'http://www.last.fm/music/Pink+Floyd'
+put 'jili2506:index', 'u6/f1697/aPink Floyd', 't:psychedelic rock', 1280613600000
+put 'jili2506:index', 'u6/f1697/aPink Floyd', 't:classic rock', 1280613600000
+put 'jili2506:index', 'u6/f1697/aPink Floyd', 't:progressive rock', 1280613600000
+
+put 'jili2506:index', 'u6/f1697/aBarrington Levy', 'c:weight', 231
+put 'jili2506:index', 'u6/f1697/aBarrington Levy', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/5240150.jpg'
+put 'jili2506:index', 'u6/f1697/aBarrington Levy', 'c:url', 'http://www.last.fm/music/Barrington+Levy'
+put 'jili2506:index', 'u6/f1697/aBarrington Levy', 't:reggae', 1288566000000
+put 'jili2506:index', 'u6/f1697/aBarrington Levy', 't:country: jamaica', 1288566000000
+
+put 'jili2506:index', 'u6/f1697/aAswad', 'c:weight', 471
+put 'jili2506:index', 'u6/f1697/aAswad', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/40499289.png'
+put 'jili2506:index', 'u6/f1697/aAswad', 'c:url', 'http://www.last.fm/music/Aswad'
+put 'jili2506:index', 'u6/f1697/aAswad', 't:country: britain', 1217541600000
+
+
+# 9
+put 'jili2506:index', 'u743/f9/aTRAX', 'c:weight', 430
+put 'jili2506:index', 'u743/f9/aTRAX', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/51409555.png'
+put 'jili2506:index', 'u743/f9/aTRAX', 'c:url', 'http://www.last.fm/music/TRAX'
+put 'jili2506:index', 'u743/f9/aTRAX', 't:specials to 3mmey', 1209592800000
+
+put 'jili2506:index', 'u743/f9/aGD&TOP', 'c:weight', 241
+put 'jili2506:index', 'u743/f9/aGD&TOP', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/56029661.png'
+put 'jili2506:index', 'u743/f9/aGD&TOP', 'c:url', 'http://www.last.fm/music/GD2526TOP'
+put 'jili2506:index', 'u743/f9/aGD&TOP', 't:hiphop', 1291158000000
+put 'jili2506:index', 'u743/f9/aGD&TOP', 't:kpop', 1291158000000
+put 'jili2506:index', 'u743/f9/aGD&TOP', 't:top', 1291158000000
+put 'jili2506:index', 'u743/f9/aGD&TOP', 't:gd', 1291158000000
+
+put 'jili2506:index', 'u1956/f9/aTRAX', 'c:weight', 430
+put 'jili2506:index', 'u1956/f9/aTRAX', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/51409555.png'
+put 'jili2506:index', 'u1956/f9/aTRAX', 'c:url', 'http://www.last.fm/music/TRAX'
+put 'jili2506:index', 'u1956/f9/aTRAX', 't:specials to 3mmey', 1209592800000
+
+put 'jili2506:index', 'u1956/f9/aGD&TOP', 'c:weight', 241
+put 'jili2506:index', 'u1956/f9/aGD&TOP', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/56029661.png'
+put 'jili2506:index', 'u1956/f9/aGD&TOP', 'c:url', 'http://www.last.fm/music/GD2526TOP'
+put 'jili2506:index', 'u1956/f9/aGD&TOP', 't:hiphop', 1291158000000
+put 'jili2506:index', 'u1956/f9/aGD&TOP', 't:kpop', 1291158000000
+put 'jili2506:index', 'u1956/f9/aGD&TOP', 't:top', 1291158000000
+put 'jili2506:index', 'u1956/f9/aGD&TOP', 't:gd', 1291158000000
+
+
+# 743
+put 'jili2506:index', 'u9/f743/aLady Gaga', 'c:weight', 4390
+put 'jili2506:index', 'u9/f743/aLady Gaga', 'c:pictureurl', 'ttp://userserve-ak.last.fm/serve/252/47390093.png'
+put 'jili2506:index', 'u9/f743/aLady Gaga', 'c:url', 'http://www.last.fm/music/Lady+Gaga'
+put 'jili2506:index', 'u9/f743/aLady Gaga', 't:electronic', 1235862000000
+put 'jili2506:index', 'u9/f743/aLady Gaga', 't:dance', 1235862000000
+put 'jili2506:index', 'u9/f743/aLady Gaga', 't:00s', 1243807200000
+put 'jili2506:index', 'u9/f743/aLady Gaga', 't:american', 1243807200000
+
+put 'jili2506:index', 'u9/f743/aL\'Arc~en~Ciel', 'c:weight', 1314
+put 'jili2506:index', 'u9/f743/aL\'Arc~en~Ciel', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/17666437.jpg'
+put 'jili2506:index', 'u9/f743/aL\'Arc~en~Ciel', 'c:url', 'http://www.last.fm/music/L%27Arc%7Een%7ECiel'
+put 'jili2506:index', 'u9/f743/aL\'Arc~en~Ciel', 't:japanese', 1267398000000
+
+
+# 1956
+put 'jili2506:index', 'u9/f1956/aHubert Kah', 'c:weight', 5321
+put 'jili2506:index', 'u9/f1956/aHubert Kah', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/60802893.png'
+put 'jili2506:index', 'u9/f1956/aHubert Kah', 'c:url', 'http://www.last.fm/music/Hubert+Kah'
+put 'jili2506:index', 'u9/f1956/aHubert Kah', 't:german', 1222812000000
+put 'jili2506:index', 'u9/f1956/aHubert Kah', 't:beautifle', 1222812000000
+
+
+# 81
+put 'jili2506:index', 'u921/f81/aB.G. Knocc Out', 'c:weight', 477
+put 'jili2506:index', 'u921/f81/aB.G. Knocc Out', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/69652.jpg'
+put 'jili2506:index', 'u921/f81/aB.G. Knocc Out', 'c:url', 'http://www.last.fm/music/B.G.%2BKnocc%2BOut%2B%2526%2BDresta'
+put 'jili2506:index', 'u921/f81/aB.G. Knocc Out', 't:gangsta rap', 1220220000000
+put 'jili2506:index', 'u921/f81/aB.G. Knocc Out', 't:g-funk', 1220220000000
+put 'jili2506:index', 'u921/f81/aB.G. Knocc Out', 't:westcoast', 1220220000000
+
+put 'jili2506:index', 'u921/f81/aBig Moves', 'c:weight', 2020
+put 'jili2506:index', 'u921/f81/aBig Moves', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/58178415.jpg'
+put 'jili2506:index', 'u921/f81/aBig Moves', 'c:url', 'http://www.last.fm/music/Big+Moves'
+put 'jili2506:index', 'u921/f81/aBig Moves', 't:female vocalist', 1254348000000
+put 'jili2506:index', 'u921/f81/aBig Moves', 't:indie', 1254348000000
+
+put 'jili2506:index', 'u1507/f81/aB.G. Knocc Out', 'c:weight', 477
+put 'jili2506:index', 'u1507/f81/aB.G. Knocc Out', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/69652.jpg'
+put 'jili2506:index', 'u1507/f81/aB.G. Knocc Out', 'c:url', 'http://www.last.fm/music/B.G.%2BKnocc%2BOut%2B%2526%2BDresta'
+put 'jili2506:index', 'u1507/f81/aB.G. Knocc Out', 't:gangsta rap', 1220220000000
+put 'jili2506:index', 'u1507/f81/aB.G. Knocc Out', 't:g-funk', 1220220000000
+put 'jili2506:index', 'u1507/f81/aB.G. Knocc Out', 't:westcoast', 1220220000000
+
+put 'jili2506:index', 'u1507/f81/aBig Moves', 'c:weight', 2020
+put 'jili2506:index', 'u1507/f81/aBig Moves', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/58178415.jpg'
+put 'jili2506:index', 'u1507/f81/aBig Moves', 'c:url', 'http://www.last.fm/music/Big+Moves'
+put 'jili2506:index', 'u1507/f81/aBig Moves', 't:female vocalist', 1254348000000
+put 'jili2506:index', 'u1507/f81/aBig Moves', 't:indie', 1254348000000
+
+
+# 921
+put 'jili2506:index', 'u81/f921/aThe Distillers', 'c:weight', 526
+put 'jili2506:index', 'u81/f921/aThe Distillers', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/80603.jpg'
+put 'jili2506:index', 'u81/f921/aThe Distillers', 'c:url', 'http://www.last.fm/music/The+Distillers'
+put 'jili2506:index', 'u81/f921/aThe Distillers', 't:female vocalist', 1222812000000
+
+put 'jili2506:index', 'u81/f921/aD.R.I.', 'c:weight', 508
+put 'jili2506:index', 'u81/f921/aD.R.I.', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/35338609.jpg'
+put 'jili2506:index', 'u81/f921/aD.R.I.', 'c:url', 'http://www.last.fm/music/D.R.I.'
+put 'jili2506:index', 'u81/f921/aD.R.I.', 't:punk', 1267398000000
+put 'jili2506:index', 'u81/f921/aD.R.I.', 't:crossover', 1267398000000
+
+
+# 1507
+put 'jili2506:index', 'u81/f1507/aGorillaz', 'c:weight', 92
+put 'jili2506:index', 'u81/f1507/aGorillaz', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/45388159.png'
+put 'jili2506:index', 'u81/f1507/aGorillaz', 'c:url', 'http://www.last.fm/music/Gorillaz'
+put 'jili2506:index', 'u81/f1507/aGorillaz', 't:hip-hop', 1277935200000
+
+put 'jili2506:index', 'u81/f1507/aMala Rodriguez', 'c:weight', 54
+put 'jili2506:index', 'u81/f1507/aMala Rodriguez', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/5331127.jpg'
+put 'jili2506:index', 'u81/f1507/aMala Rodriguez', 'c:url', 'http://www.last.fm/music/Mala+Rodr%C3%ADguez'
+put 'jili2506:index', 'u81/f1507/aMala Rodriguez', 't:rap', 1277935200000
+
+
+# 1099
+put 'jili2506:index', 'u275/f1099/aGoldfrapp', 'c:weight', 237
+put 'jili2506:index', 'u275/f1099/aGoldfrapp', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/36460899.png'
+put 'jili2506:index', 'u275/f1099/aGoldfrapp', 'c:url', 'http://www.last.fm/music/Goldfrapp'
+put 'jili2506:index', 'u275/f1099/aGoldfrapp', 't:female vocalists', 1180648800000
+put 'jili2506:index', 'u275/f1099/aGoldfrapp', 't:electronica', 1180648800000
+put 'jili2506:index', 'u275/f1099/aGoldfrapp', 't:electronic', 1180648800000
+
+
+# 1801
+put 'jili2506:index', 'u78/f1801/aAmon Tobin', 'c:weight', 31
+put 'jili2506:index', 'u78/f1801/aAmon Tobin', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/39100865.png'
+put 'jili2506:index', 'u78/f1801/aAmon Tobin', 'c:url', 'http://www.last.fm/music/Amon+Tobin'
+put 'jili2506:index', 'u78/f1801/aAmon Tobin', 't:essential instrumental versions', 1225494000000
+
+put 'jili2506:index', 'u78/f1801/aLamb', 'c:weight', 42
+put 'jili2506:index', 'u78/f1801/aLamb', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/3404.jpg'
+put 'jili2506:index', 'u78/f1801/aLamb', 'c:url', 'http://www.last.fm/music/Lamb'
+put 'jili2506:index', 'u78/f1801/aLamb', 't:essential instrumental versions', 1225494000000
+
+
+########################################
+########################################
+########################################
+########################################
+# q2
+
+put 'jili2506:index', 'aMorcheeba/r1238536800000-1123436800000/tchillout', 'c:2', 11690
+put 'jili2506:index', 'aMorcheeba/r1238536800000-1123436800000/tchillout', 'c:123', 690
+
+put 'jili2506:index', 'aMorcheeba/r1228536800000/tdowntempo', 'c:2', 11690
+
+put 'jili2506:index', 'aMorcheeba/r1238536800000/telectronic', 'c:2', 11690
+
+put 'jili2506:index', 'aChina Crisis/r1241128800000/tnew wave', 'c:2', 11690
+put 'jili2506:index', 'aChina Crisis/r1241128800000/tsynth pop', 'c:2', 11690
+put 'jili2506:index', 'aChina Crisis/r1241128800000/tclassic 80s', 'c:2', 11690
+
+
+# 3
+put 'jili2506:index', 'aPleq/r1264978800000/tambient', 'c:3', 13176
+put 'jili2506:index', 'aPleq/r1235862000000/tdowntempo', 'c:3', 13176
+put 'jili2506:index', 'aPleq/r1233442800000/tavant-garde', 'c:3', 13176
+
+put 'jili2506:index', 'aGo Koyashiki/r1233442800000/texperimental', 'c:3', 236
+put 'jili2506:index', 'aGo Koyashiki/r1254348000000/tmelancholy', 'c:3', 236
+put 'jili2506:index', 'aGo Koyashiki/r1233442800000/toctober man recordings', 'c:3', 236
+
+
+# 5
+put 'jili2506:index', 'aAir/r1207000800000/tautumn', 'c:5', 181
+
+put 'jili2506:index', 'aThe Tiger Lillies/r1207000800000/tautumn', 'c:5', 826
+
+put 'jili2506:index', 'aCAKE/r1207000800000/tautumn', 'c:5', 298
+
+put 'jili2506:index', 'aRed Hot Chili Peppers/r1280613600000/twinter', 'c:5', 192
+
+# 6
+put 'jili2506:index', 'aTeta Lando/r1293836400000/tkwasa', 'c:6', 34
+put 'jili2506:index', 'aTeta Lando/r1293836400000/tsemba', 'c:6', 34
+put 'jili2506:index', 'aTeta Lando/r1293836400000/tangola', 'c:6', 34
+put 'jili2506:index', 'aTeta Lando/r1293836400000/tworld music', 'c:6', 34
+
+put 'jili2506:index', 'aFlagelo Urbano/r1228086000000/tluso hip hop', 'c:6', 33
+put 'jili2506:index', 'aFlagelo Urbano/r1293836400000/tunderground hip hp', 'c:6', 33
+
+put 'jili2506:index', 'aEPMD/r1228086000000/thip-hop', 'c:6', 0
+put 'jili2506:index', 'aEPMD/r1228086000000/trap', 'c:6', 0
+put 'jili2506:index', 'aEPMD/r1228086000000/tnew york', 'c:6', 0
+
+# 275
+put 'jili2506:index', 'aTimbaland/r1222812000000/tawesome', 'c:275', 0
+
+put 'jili2506:index', 'aRay LaMontagne/r1233442800000/tawesome', 'c:275', 30
+put 'jili2506:index', 'aRay LaMontagne/r1233442800000/tmmmm', 'c:275', 30
+
+put 'jili2506:index', 'aX-Patriate (Alan J. Lipman)/r1222812000000/tmmmm', 'c:275', 279
+put 'jili2506:index', 'aX-Patriate (Alan J. Lipman)/r1222812000000/tshivers', 'c:275', 279
+
+# 428
+put 'jili2506:index', 'aDuran Duran/r1249077600000/tnew wave', 'c:428', 61012
+put 'jili2506:index', 'aDuran Duran/r1249077600000/tpop', 'c:428', 61012
+put 'jili2506:index', 'aDuran Duran/r1249077600000/tduran duran', 'c:428', 61012
+
+put 'jili2506:index', 'aDepeche Mode/r1170284400000/tone of the best songs ever', 'c:428', 6337
+
+put 'jili2506:index', 'aThe B-52\'s/r1249077600000/tnew wave', 'c:428', 2149
+put 'jili2506:index', 'aThe B-52\'s/r1249077600000/t80\'s', 'c:428', 2149
+
+
+# 78
+put 'jili2506:index', 'aAutechre/r1222812000000/tambient', 'c:78', 779
+put 'jili2506:index', 'aAutechre/r1222812000000/texperimental', 'c:78', 779
+put 'jili2506:index', 'aAutechre/r1222812000000/tidm', 'c:78', 779
+
+put 'jili2506:index', 'aB. Fleischmann/r1222812000000/tambient', 'c:78', 332
+put 'jili2506:index', 'aB. Fleischmann/r1222812000000/texperimental', 'c:78', 332
+put 'jili2506:index', 'aB. Fleischmann/r1222812000000/tidm', 'c:78', 332
+
+
+# 460
+put 'jili2506:index', 'aClint Mansell/r1220220000000/tmusic for my soul', 'c:460', 252
+
+put 'jili2506:index', 'aDolphin/r1193871600000/texperimental', 'c:460', 182
+put 'jili2506:index', 'aDolphin/r1222812000000/tart rock', 'c:460', 182
+put 'jili2506:index', 'aDolphin/r1222812000000/tpowerful', 'c:460', 182
+
+
+# 228
+put 'jili2506:index', 'aBob Dylan/r1170284400000/tsinger-songwriter', 'c:228', 17
+put 'jili2506:index', 'aBob Dylan/r1167606000000/tclassic rock', 'c:228', 17
+put 'jili2506:index', 'aBob Dylan/r1167606000000/tfolk', 'c:228', 17
+put 'jili2506:index', 'aBob Dylan/r1170284400000/tfolk rock', 'c:228', 17
+
+put 'jili2506:index', 'aNeil Young/r1167606000000/tsinger-songwriter', 'c:228', 14
+put 'jili2506:index', 'aNeil Young/r1167606000000/tclassic rock', 'c:228', 14
+put 'jili2506:index', 'aNeil Young/r1167606000000/tcanadian', 'c:228', 14
+put 'jili2506:index', 'aNeil Young/r1167606000000/tfolk rock', 'c:228', 14
+
+
+# 1271
+put 'jili2506:index', 'aThe Beatles/r1188597600000/t1970', 'c:1271', 610
+
+put 'jili2506:index', 'aThe Who/r1188597600000/t1970', 'c:1271', 295
+put 'jili2506:index', 'aThe Who/r1188597600000/t1969', 'c:1271', 295
+put 'jili2506:index', 'aThe Who/r1264978800000/t1965', 'c:1271', 295
+
+
+# 1697
+put 'jili2506:index', 'aPink Floyd/r1280613600000/tpsychedelic rock', 'c:1697', 197
+put 'jili2506:index', 'aPink Floyd/r1280613600000/tclassic rock', 'c:1697', 197
+put 'jili2506:index', 'aPink Floyd/r1280613600000/tprogressive rock', 'c:1697', 197
+
+put 'jili2506:index', 'aBarrington Levy/r1288566000000/treggae', 'c:1697', 231
+put 'jili2506:index', 'aBarrington Levy/r1288566000000/tcountry: jamaica', 'c:1697', 231 
+
+put 'jili2506:index', 'aAswad/r1217541600000/tcountry: britain', 'c:1697', 471
+
+
+# 9
+put 'jili2506:index', 'aTRAX/r1209592800000/tspecials to 3mmey', 'c:9', 430
+
+put 'jili2506:index', 'aGD&TOP/r1291158000000/thiphop', 'c:9', 241
+put 'jili2506:index', 'aGD&TOP/r1291158000000/thiphop', 'c:9', 241
+put 'jili2506:index', 'aGD&TOP/r1291158000000/ttop', 'c:9', 241
+put 'jili2506:index', 'aGD&TOP/r1291158000000/tgd', 'c:9', 241
+
+
+# 743
+put 'jili2506:index', 'aLady Gaga/r1235862000000/telectronic', 'c:743', 4390
+put 'jili2506:index', 'aLady Gaga/r1235862000000/tdance', 'c:743', 4390
+put 'jili2506:index', 'aLady Gaga/r1243807200000/t00s', 'c:743', 4390
+put 'jili2506:index', 'aLady Gaga/r1243807200000/tamerican', 'c:743', 4390
+
+put 'jili2506:index', 'aL\'Arc~en~Ciel/r1267398000000/tjapanese', 'c:743', 1314
+
+
+# 1956
+put 'jili2506:index', 'aHubert Kah/r1222812000000/tgerman', 'c:1956', 5321
+put 'jili2506:index', 'aHubert Kah/r1222812000000/tbeautifle', 'c:1956', 5321
+
+
+# 81
+put 'jili2506:index', 'aB.G. Knocc Out/r1220220000000/tgangsta rap', 'c:81', 477
+put 'jili2506:index', 'aB.G. Knocc Out/r1220220000000/tg-funk', 'c:81', 477
+put 'jili2506:index', 'aB.G. Knocc Out/r1220220000000/twestcoast', 'c:81', 477
+
+put 'jili2506:index', 'aBig Moves/r1254348000000/tfemale vocalist', 'c:81', 2020
+put 'jili2506:index', 'aBig Moves/r1254348000000/tindie', 'c:81', 2020
+
+
+# 921
+put 'jili2506:index', 'aThe Distillers/r1222812000000/tfemale vocalist', 'c:921', 526
+
+put 'jili2506:index', 'aD.R.I./r1267398000000/tpunk', 'c:921', 508
+put 'jili2506:index', 'aD.R.I./r1267398000000/tcrossover', 'c:921', 508
+
+
+# 1507
+put 'jili2506:index', 'aGorillaz/r1277935200000/thip-hop', 'c:1507', 92
+
+put 'jili2506:index', 'aMala Rodriguez/r1277935200000/trap', 'c:1507', 54
+
+
+# 1099
+put 'jili2506:index', 'aGoldfrapp/r1180648800000/tfemale vocalists', 'c:1099', 237
+put 'jili2506:index', 'aGoldfrapp/r1180648800000/telectronica', 'c:1099', 237
+put 'jili2506:index', 'aGoldfrapp/r1180648800000/telectronic', 'c:1099', 237
+
+
+# 1801
+put 'jili2506:index', 'aAmon Tobin/r1225494000000/tessential instrumental versions', 'c:1801', 31
+
+put 'jili2506:index', 'aLamb/r1225494000000/tessential instrumental versions', 'c:1801', 42
+
+
+########################################
+########################################
+########################################
+########################################
+# q3
+
+# 2
+put 'jili2506:index', 'aMorcheeba/c11690/u2', 't:chillout', 1238536800000
+put 'jili2506:index', 'aMorcheeba/c11690/u2', 't:downtempo', 1228536800000
+put 'jili2506:index', 'aMorcheeba/c11690/u2', 't:electronic', 1238536800000
+
+put 'jili2506:index', 'aMorcheeba/c690/u123', 't:electronic', 1238536800000
+
+# 3
+put 'jili2506:index', 'aPleq/c13176/u3', 't:ambient', 1264978800000
+put 'jili2506:index', 'aPleq/c13176/u3', 't:downtempo', 1235862000000
+put 'jili2506:index', 'aPleq/c13176/u3', 't:avant-garde', 1233442800000
+
+put 'jili2506:index', 'aGo Koyashiki/c236/u3', 't:experimental', 1233442800000
+put 'jili2506:index', 'aGo Koyashiki/c236/u3', 't:melancholy', 1254348000000
+put 'jili2506:index', 'aGo Koyashiki/c236/u3', 't:october man recordings', 1233442800000
+
+
+# 5
+put 'jili2506:index', 'aAir/c181/u5', 't:autumn', 1207000800000
+
+put 'jili2506:index', 'aThe Tiger Lillies/c826/u5', 't:autumn', 1207000800000
+
+put 'jili2506:index', 'aCAKE/c298/u5', 't:autumn', 1207000800000
+
+put 'jili2506:index', 'aRed Hot Chili Peppers/c192/u5', 't:winter', 1280613600000
+
+# 6
+put 'jili2506:index', 'aTeta Lando/c34/u6', 't:kwasa', 1293836400000
+put 'jili2506:index', 'aTeta Lando/c34/u6', 't:semba', 1293836400000
+put 'jili2506:index', 'aTeta Lando/c34/u6', 't:angola', 1293836400000
+put 'jili2506:index', 'aTeta Lando/c34/u6', 't:world music', 1293836400000
+
+put 'jili2506:index', 'aFlagelo Urbano/c33/u6', 't:luso hip hop', 1228086000000
+put 'jili2506:index', 'aFlagelo Urbano/c33/u6', 't:underground hip hp', 1293836400000
+
+# 275
+put 'jili2506:index', 'aRay LaMontagne/c30/u275', 't:awesome', 1233442800000
+put 'jili2506:index', 'aRay LaMontagne/c30/u275', 't:mmmm', 1233442800000
+
+put 'jili2506:index', 'aX-Patriate (Alan J. Lipman)/c279/u275', 't:mmmm', 1222812000000
+put 'jili2506:index', 'aX-Patriate (Alan J. Lipman)/c279/u275', 't:shivers', 1222812000000
+
+# 428
+put 'jili2506:index', 'aDuran Duran/c61012/u428', 't:new wave', 1249077600000
+put 'jili2506:index', 'aDuran Duran/c61012/u428', 't:pop', 1249077600000
+put 'jili2506:index', 'aDuran Duran/c61012/u428', 't:duran duran', 1249077600000
+
+put 'jili2506:index', 'aDepeche Mode/c6337/u428', 't:one of the best songs ever', 1170284400000
+
+put 'jili2506:index', 'aThe B-52\'s/c2149/u428', 't:new wave', 1249077600000
+put 'jili2506:index', 'aThe B-52\'s/c2149/u428', 't:80\'s', 1249077600000
+
+
+# 78
+put 'jili2506:index', 'aAutechre/c779/u78', 't:ambient', 1222812000000
+put 'jili2506:index', 'aAutechre/c779/u78', 't:experimental', 1222812000000
+put 'jili2506:index', 'aAutechre/c779/u78', 't:idm', 1222812000000
+
+put 'jili2506:index', 'aB. Fleischmann/c332/u78', 't:ambient', 1222812000000
+put 'jili2506:index', 'aB. Fleischmann/c332/u78', 't:experimental', 1222812000000
+put 'jili2506:index', 'aB. Fleischmann/c332/u78', 't:idm', 1222812000000
+
+
+# 460
+put 'jili2506:index', 'aWolfgang Amadeus Mozart/c1042/u460', 'c:weight', 1042
+
+put 'jili2506:index', 'aClint Mansell/c252/u460', 't:music for my soul', 1220220000000
+
+put 'jili2506:index', 'aDolphin/c182/u460', 't:experimental', 1193871600000
+put 'jili2506:index', 'aDolphin/c182/u460', 't:art rock', 1222812000000
+put 'jili2506:index', 'aDolphin/c182/u460', 't:powerful', 1222812000000
+
+
+# 228
+put 'jili2506:index', 'aBob Dylan/c17/u228', 't:singer-songwriter', 1170284400000
+put 'jili2506:index', 'aBob Dylan/c17/u228', 't:classic rock', 1167606000000
+put 'jili2506:index', 'aBob Dylan/c17/u228', 't:folk', 1167606000000
+put 'jili2506:index', 'aBob Dylan/c17/u228', 't:folk rock', 1170284400000
+
+put 'jili2506:index', 'aNeil Young/c14/u228', 't:singer-songwriter', 1167606000000
+put 'jili2506:index', 'aNeil Young/c14/u228', 't:classic rock', 1167606000000
+put 'jili2506:index', 'aNeil Young/c14/u228', 't:canadian', 1167606000000
+put 'jili2506:index', 'aNeil Young/c14/u228', 't:folk rock', 1167606000000
+
+
+# 1271
+put 'jili2506:index', 'aThe Beatles/c610/u1271', 't:1970', 1188597600000
+
+put 'jili2506:index', 'aThe Who/c295/u1271', 't:1970', 1188597600000
+put 'jili2506:index', 'aThe Who/c295/u1271', 't:1969', 1188597600000
+put 'jili2506:index', 'aThe Who/c295/u1271', 't:1965', 1264978800000
+
+
+# 1697
+put 'jili2506:index', 'aPink Floyd/c197/u1697', 't:psychedelic rock', 1280613600000
+put 'jili2506:index', 'aPink Floyd/c197/u1697', 't:classic rock', 1280613600000
+put 'jili2506:index', 'aPink Floyd/c197/u1697', 't:progressive rock', 1280613600000
+
+put 'jili2506:index', 'aBarrington Levy/c231/u1697', 't:reggae', 1288566000000
+put 'jili2506:index', 'aBarrington Levy/c231/u1697', 't:country: jamaica', 1288566000000
+
+put 'jili2506:index', 'aAswad/c471/u1697', 't:country: britain', 1217541600000
+
+
+# 9
+put 'jili2506:index', 'aTRAX/c430/u9', 't:specials to 3mmey', 1209592800000
+
+put 'jili2506:index', 'aGD&TOP/c241/u9', 't:hiphop', 1291158000000
+put 'jili2506:index', 'aGD&TOP/c241/u9', 't:kpop', 1291158000000
+put 'jili2506:index', 'aGD&TOP/c241/u9', 't:top', 1291158000000
+put 'jili2506:index', 'aGD&TOP/c241/u9', 't:gd', 1291158000000
+
+
+# 743
+put 'jili2506:index', 'aLady Gaga/c4390/u743', 't:electronic', 1235862000000
+put 'jili2506:index', 'aLady Gaga/c4390/u743', 't:dance', 1235862000000
+put 'jili2506:index', 'aLady Gaga/c4390/u743', 't:00s', 1243807200000
+put 'jili2506:index', 'aLady Gaga/c4390/u743', 't:american', 1243807200000
+
+put 'jili2506:index', 'aL\'Arc~en~Ciel/c1314/u743', 't:japanese', 1267398000000
+
+
+# 1956
+put 'jili2506:index', 'aHubert Kah/c5321/u1956', 't:german', 1222812000000
+put 'jili2506:index', 'aHubert Kah/c5321/u1956', 't:beautifle', 1222812000000
+
+
+# 81
+put 'jili2506:index', 'aB.G. Knocc Out/c477/u81', 't:gangsta rap', 1220220000000
+put 'jili2506:index', 'aB.G. Knocc Out/c477/u81', 't:g-funk', 1220220000000
+put 'jili2506:index', 'aB.G. Knocc Out/c477/u81', 't:westcoast', 1220220000000
+
+put 'jili2506:index', 'aBig Moves/c2020/u81', 't:female vocalist', 1254348000000
+put 'jili2506:index', 'aBig Moves/c2020/u81', 't:indie', 1254348000000
+
+
+# 921
+put 'jili2506:index', 'aThe Distillers/c526/u921', 't:female vocalist', 1222812000000
+
+put 'jili2506:index', 'aD.R.I./c508/u921', 't:punk', 1267398000000
+put 'jili2506:index', 'aD.R.I./c508/u921', 't:crossover', 1267398000000
+
+
+# 1507
+put 'jili2506:index', 'aGorillaz/c92/u1507', 't:hip-hop', 1277935200000
+
+put 'jili2506:index', 'aMala Rodriguez/c54/u1507', 't:rap', 1277935200000
+
+
+# 1099
+put 'jili2506:index', 'aGoldfrapp/c237/u1099', 't:female vocalists', 1180648800000
+put 'jili2506:index', 'aGoldfrapp/c237/u1099', 't:electronica', 1180648800000
+put 'jili2506:index', 'aGoldfrapp/c237/u1099', 't:electronic', 1180648800000
+
+
+# 1801
+put 'jili2506:index', 'aAmon Tobin/c31/u1801', 't:essential instrumental versions', 1225494000000
+
+put 'jili2506:index', 'aLamb/c42/u1801', 't:essential instrumental versions', 1225494000000
+
+
+########################################
+########################################
+########################################
+########################################
+# q4
+
+put 'jili2506:index', 'u2/r1238536800000-1228536800000/aMorcheeba', 't:chillout', 1238536800000
+put 'jili2506:index', 'u2/r1238536800000-1228536800000/aMorcheeba', 't:downtempo', 1228536800000
+put 'jili2506:index', 'u2/r1238536800000-1228536800000/aMorcheeba', 't:electronic', 1238536800000
+put 'jili2506:index', 'u2/r1238536800000-1228536800000/aMorcheeba', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/46005111.png'
+put 'jili2506:index', 'u2/r1238536800000-1228536800000/aMorcheeba', 'c:url', 'http://www.last.fm/music/Morcheeba'
+
+
+put 'jili2506:index', 'u2/r1241128800000/aChina Crisis', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/13224571.jpg'
+put 'jili2506:index', 'u2/r1241128800000/aChina Crisis', 'c:url', 'http://www.last.fm/music/China+Crisis'
+put 'jili2506:index', 'u2/r1241128800000/aChina Crisis', 't:new wave', 1241128800000
+put 'jili2506:index', 'u2/r1241128800000/aChina Crisis', 't:synth pop', 1241128800000
+put 'jili2506:index', 'u2/r1241128800000/aChina Crisis', 't:classic 80s', 1241128800000
+
+
+
+# 3
+put 'jili2506:index', 'u3/r1264978800000-1235862000000-1233442800000/aPleq', 't:ambient', 1264978800000
+put 'jili2506:index', 'u3/r1264978800000-1235862000000-1233442800000/aPleq', 't:downtempo', 1264978800000
+put 'jili2506:index', 'u3/r1264978800000-1235862000000-1233442800000/aPleq', 't:avant-garde', 1264978800000
+put 'jili2506:index', 'u3/r1264978800000-1235862000000-1233442800000/aPleq', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/58414481.jpg'
+put 'jili2506:index', 'u3/r1264978800000-1235862000000-1233442800000/aPleq', 'c:url', 'http://www.last.fm/music/Pleq'
+
+
+put 'jili2506:index', 'u3/r1254348000000-1233442800000/aGo Koyashiki', 't:melancholy', 1254348000000
+put 'jili2506:index', 'u3/r1254348000000-1233442800000/aGo Koyashiki', 't:experimental', 1233442800000
+put 'jili2506:index', 'u3/r1254348000000-1233442800000/aGo Koyashiki', 't:october man recordings', 1233442800000
+put 'jili2506:index', 'u3/r1254348000000-1233442800000/aGo Koyashiki', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/58277441.jpg'
+put 'jili2506:index', 'u3/r1254348000000-1233442800000/aGo Koyashiki', 'c:url', 'http://www.last.fm/music/Go+Koyashiki'
+
+
+# 5
+put 'jili2506:index', 'u5/r1207000800000/aAir', 't:autumn', 1207000800000
+put 'jili2506:index', 'u5/r1207000800000/aAir', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/251119.jpg'
+put 'jili2506:index', 'u5/r1207000800000/aAir', 'c:url', 'http://www.last.fm/music/Air'
+
+put 'jili2506:index', 'u5/r1207000800000/aThe Tiger Lillies', 't:autumn', 1207000800000
+put 'jili2506:index', 'u5/r1207000800000/aThe Tiger Lillies', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/251119.jpg'
+put 'jili2506:index', 'u5/r1207000800000/aThe Tiger Lillies', 'c:url', 'http://www.last.fm/music/Air'
+
+put 'jili2506:index', 'u5/r1207000800000/aCAKE', 't:autumn', 1207000800000
+put 'jili2506:index', 'u5/r1207000800000/aCAKE', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/12825895.gif'
+put 'jili2506:index', 'u5/r1207000800000/aCAKE', 'c:url', 'http://www.last.fm/music/CAKE'
+
+put 'jili2506:index', 'u5/r1280613600000/aRed Hot Chili Peppers', 't:winter', 1280613600000
+put 'jili2506:index', 'u5/r1280613600000/aRed Hot Chili Peppers', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/155038.jpg'
+put 'jili2506:index', 'u5/r1280613600000/aRed Hot Chili Peppers', 'c:url', 'http://www.last.fm/music/Red+Hot+Chili+Peppers'
+
+# 6
+put 'jili2506:index', 'u6/r1293836400000/aTeta Lando', 't:kwasa', 1293836400000
+put 'jili2506:index', 'u6/r1293836400000/aTeta Lando', 't:semba', 1293836400000
+put 'jili2506:index', 'u6/r1293836400000/aTeta Lando', 't:angola', 1293836400000
+put 'jili2506:index', 'u6/r1293836400000/aTeta Lando', 't:world music', 1293836400000
+put 'jili2506:index', 'u6/r1293836400000/aTeta Lando', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/57587349.jpg'
+put 'jili2506:index', 'u6/r1293836400000/aTeta Lando', 'c:url', 'http://www.last.fm/music/Teta+Lando'
+
+put 'jili2506:index', 'u6/r1293836400000-1228086000000/aFlagelo Urbano', 't:luso hip hop', 1228086000000
+put 'jili2506:index', 'u6/r1293836400000-1228086000000/aFlagelo Urbano', 't:underground hip hp', 1293836400000
+put 'jili2506:index', 'u6/r1293836400000-1228086000000/aFlagelo Urbano', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/57586835.jpg'
+put 'jili2506:index', 'u6/r1293836400000-1228086000000/aFlagelo Urbano', 'c:url', 'http://www.last.fm/music/Flagelo+Urbano'
+
+put 'jili2506:index', 'u6/r1228086000000/aEPMD', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/50709513.jpg'
+put 'jili2506:index', 'u6/r1228086000000/aEPMD', 'c:url', 'http://www.last.fm/music/EPMD'
+put 'jili2506:index', 'u6/r1228086000000/aEPMD', 't:hip-hop', 1228086000000
+put 'jili2506:index', 'u6/r1228086000000/aEPMD', 't:rap', 1228086000000
+put 'jili2506:index', 'u6/r1228086000000/aEPMD', 't:new york', 1228086000000
+
+# 275
+put 'jili2506:index', 'u275/r1222812000000/aTimbaland', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/40255265.png'
+put 'jili2506:index', 'u275/r1222812000000/aTimbaland', 'c:url', 'http://www.last.fm/music/Timbaland'
+put 'jili2506:index', 'u275/r1222812000000/aTimbaland', 't:awesome', 1222812000000
+
+put 'jili2506:index', 'u275/r1233442800000/aRay LaMontagne', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/28260387.png'
+put 'jili2506:index', 'u275/r1233442800000/aRay LaMontagne', 'c:url', 'http://www.last.fm/music/Ray+LaMontagne'
+put 'jili2506:index', 'u275/r1233442800000/aRay LaMontagne', 't:awesome', 1233442800000
+put 'jili2506:index', 'u275/r1233442800000/aRay LaMontagne', 't:mmmm', 1233442800000
+
+put 'jili2506:index', 'u275/r1222812000000/aX-Patriate (Alan J. Lipman)', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/5362733.jpg'
+put 'jili2506:index', 'u275/r1222812000000/aX-Patriate (Alan J. Lipman)', 'c:url', 'http://www.last.fm/music/X-Patriate+28Alan+J.+Lipman%29'
+put 'jili2506:index', 'u275/r1222812000000/aX-Patriate (Alan J. Lipman)', 't:mmmm', 1222812000000
+put 'jili2506:index', 'u275/r1222812000000/aX-Patriate (Alan J. Lipman)', 't:shivers', 1222812000000
+
+# 428
+put 'jili2506:index', 'u428/r1249077600000/aDuran Duran', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/155668.jpg'
+put 'jili2506:index', 'u428/r1249077600000/aDuran Duran', 'c:url', 'http://www.last.fm/music/Duran+Duran'
+put 'jili2506:index', 'u428/r1249077600000/aDuran Duran', 't:new wave', 1249077600000
+put 'jili2506:index', 'u428/r1249077600000/aDuran Duran', 't:pop', 1249077600000
+put 'jili2506:index', 'u428/r1249077600000/aDuran Duran', 't:duran duran', 1249077600000
+
+put 'jili2506:index', 'u428/r1170284400000/aDepeche Mode', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/75022.jpg'
+put 'jili2506:index', 'u428/r1170284400000/aDepeche Mode', 'c:url', 'http://www.last.fm/music/Depeche+Mode'
+put 'jili2506:index', 'u428/r1170284400000/aDepeche Mode', 't:one of the best songs ever', 1170284400000
+
+put 'jili2506:index', 'u428/r1249077600000/aThe B-52\'s', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/27600357.jpg'
+put 'jili2506:index', 'u428/r1249077600000/aThe B-52\'s', 'c:url', 'http://www.last.fm/music/The+B-5227s'
+put 'jili2506:index', 'u428/r1249077600000/aThe B-52\'s', 't:new wave', 1249077600000
+put 'jili2506:index', 'u428/r1249077600000/aThe B-52\'s', 't:80\'s', 1249077600000
+
+
+# 78
+put 'jili2506:index', 'u78/r1222812000000/aAutechre', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/7725479.jpg'
+put 'jili2506:index', 'u78/r1222812000000/aAutechre', 'c:url', 'http://www.last.fm/music/Autechre'
+put 'jili2506:index', 'u78/r1222812000000/aAutechre', 't:ambient', 1222812000000
+put 'jili2506:index', 'u78/r1222812000000/aAutechre', 't:experimental', 1222812000000
+put 'jili2506:index', 'u78/r1222812000000/aAutechre', 't:idm', 1222812000000
+
+put 'jili2506:index', 'u78/r1222812000000/aB. Fleischmann', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/19056737.jpg'
+put 'jili2506:index', 'u78/r1222812000000/aB. Fleischmann', 'c:url', 'http://www.last.fm/music/B.+Fleischmann'
+put 'jili2506:index', 'u78/r1222812000000/aB. Fleischmann', 't:ambient', 1222812000000
+put 'jili2506:index', 'u78/r1222812000000/aB. Fleischmann', 't:experimental', 1222812000000
+put 'jili2506:index', 'u78/r1222812000000/aB. Fleischmann', 't:idm', 1222812000000
+
+
+# 460
+put 'jili2506:index', 'u460/r1220220000000/aClint Mansell', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/43698365.jpg'
+put 'jili2506:index', 'u460/r1220220000000/aClint Mansell', 'c:url', 'http://www.last.fm/music/Clint+Mansell'
+put 'jili2506:index', 'u460/r1220220000000/aClint Mansell', 't:music for my soul', 1220220000000
+
+put 'jili2506:index', 'u460/r1222812000000-1193871600000/aDolphin', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/29266643.jpg'
+put 'jili2506:index', 'u460/r1222812000000-1193871600000/aDolphin', 'c:url', 'http://www.last.fm/music/Dolphin'
+put 'jili2506:index', 'u460/r1222812000000-1193871600000/aDolphin', 't:experimental', 1193871600000
+put 'jili2506:index', 'u460/r1222812000000-1193871600000/aDolphin', 't:art rock', 1222812000000
+put 'jili2506:index', 'u460/r1222812000000-1193871600000/aDolphin', 't:powerful', 1222812000000
+
+
+# 228
+put 'jili2506:index', 'u228/r1170284400000-1167606000000/aBob Dylan', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/13979651.jpg'
+put 'jili2506:index', 'u228/r1170284400000-1167606000000/aBob Dylan', 'c:url', 'http://www.last.fm/music/Bob+Dylan'
+put 'jili2506:index', 'u228/r1170284400000-1167606000000/aBob Dylan', 't:singer-songwriter', 1170284400000
+put 'jili2506:index', 'u228/r1170284400000-1167606000000/aBob Dylan', 't:classic rock', 1167606000000
+put 'jili2506:index', 'u228/r1170284400000-1167606000000/aBob Dylan', 't:folk', 1167606000000
+put 'jili2506:index', 'u228/r1170284400000-1167606000000/aBob Dylan', 't:folk rock', 1170284400000
+
+put 'jili2506:index', 'u228/r1167606000000/aNeil Young', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/50538451.jpg'
+put 'jili2506:index', 'u228/r1167606000000/aNeil Young', 'c:url', 'http://www.last.fm/music/Neil+Young'
+put 'jili2506:index', 'u228/r1167606000000/aNeil Young', 't:singer-songwriter', 1167606000000
+put 'jili2506:index', 'u228/r1167606000000/aNeil Young', 't:classic rock', 1167606000000
+put 'jili2506:index', 'u228/r1167606000000/aNeil Young', 't:canadian', 1167606000000
+put 'jili2506:index', 'u228/r1167606000000/aNeil Young', 't:folk rock', 1167606000000
+
+
+# 1271
+put 'jili2506:index', 'u1271/r1188597600000/aThe Beatles', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/2588646.jpg'
+put 'jili2506:index', 'u1271/r1188597600000/aThe Beatles', 'c:url', 'http://www.last.fm/music/The+Beatles'
+put 'jili2506:index', 'u1271/r1188597600000/aThe Beatles', 't:1970', 1188597600000
+
+put 'jili2506:index', 'u1271/r1264978800000-1188597600000/aThe Who', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/361952.jpg'
+put 'jili2506:index', 'u1271/r1264978800000-1188597600000/aThe Who', 'c:url', 'http://www.last.fm/music/The+Who'
+put 'jili2506:index', 'u1271/r1264978800000-1188597600000/aThe Who', 't:1970', 1188597600000
+put 'jili2506:index', 'u1271/r1264978800000-1188597600000/aThe Who', 't:1969', 1188597600000
+put 'jili2506:index', 'u1271/r1264978800000-1188597600000/aThe Who', 't:1965', 1264978800000
+
+
+# 1697
+put 'jili2506:index', 'u1697/r1280613600000/aPink Floyd', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/39219129.jpg'
+put 'jili2506:index', 'u1697/r1280613600000/aPink Floyd', 'c:url', 'http://www.last.fm/music/Pink+Floyd'
+put 'jili2506:index', 'u1697/r1280613600000/aPink Floyd', 't:psychedelic rock', 1280613600000
+put 'jili2506:index', 'u1697/r1280613600000/aPink Floyd', 't:classic rock', 1280613600000
+put 'jili2506:index', 'u1697/r1280613600000/aPink Floyd', 't:progressive rock', 1280613600000
+
+put 'jili2506:index', 'u1697/r1288566000000/aBarrington Levy', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/5240150.jpg'
+put 'jili2506:index', 'u1697/r1288566000000/aBarrington Levy', 'c:url', 'http://www.last.fm/music/Barrington+Levy'
+put 'jili2506:index', 'u1697/r1288566000000/aBarrington Levy', 't:reggae', 1288566000000
+put 'jili2506:index', 'u1697/r1288566000000/aBarrington Levy', 't:country: jamaica', 1288566000000 
+
+put 'jili2506:index', 'u1697/r1217541600000/aAswad', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/40499289.png'
+put 'jili2506:index', 'u1697/r1217541600000/aAswad', 'c:url', 'http://www.last.fm/music/Aswad'
+put 'jili2506:index', 'u1697/r1217541600000/aAswad', 't:country: britain', 1217541600000
+
+
+# 9
+put 'jili2506:index', 'u9/r1209592800000/aTRAX', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/51409555.png'
+put 'jili2506:index', 'u9/r1209592800000/aTRAX', 'c:url', 'http://www.last.fm/music/TRAX'
+put 'jili2506:index', 'u9/r1209592800000/aTRAX', 't:specials to 3mmey', 1209592800000
+
+put 'jili2506:index', 'u9/r1291158000000/aGD&TOP', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/56029661.png'
+put 'jili2506:index', 'u9/r1291158000000/aGD&TOP', 'c:url', 'http://www.last.fm/music/GD2526TOP'
+put 'jili2506:index', 'u9/r1291158000000/aGD&TOP', 't:hiphop', 1291158000000
+put 'jili2506:index', 'u9/r1291158000000/aGD&TOP', 't:khop', 1291158000000
+put 'jili2506:index', 'u9/r1291158000000/aGD&TOP', 't:top', 1291158000000
+put 'jili2506:index', 'u9/r1291158000000/aGD&TOP', 't:gd', 1291158000000
+
+
+# 743
+put 'jili2506:index', 'u743/r1243807200000-1235862000000/aLady Gaga', 'c:pictureurl', 'ttp://userserve-ak.last.fm/serve/252/47390093.png'
+put 'jili2506:index', 'u743/r1243807200000-1235862000000/aLady Gaga', 'c:url', 'http://www.last.fm/music/Lady+Gaga'
+put 'jili2506:index', 'u743/r1243807200000-1235862000000/aLady Gaga', 't:electronic', 1235862000000
+put 'jili2506:index', 'u743/r1243807200000-1235862000000/aLady Gaga', 't:dance', 1235862000000
+put 'jili2506:index', 'u743/r1243807200000-1235862000000/aLady Gaga', 't:00s', 1243807200000
+put 'jili2506:index', 'u743/r1243807200000-1235862000000/aLady Gaga', 't:american', 1243807200000
+
+put 'jili2506:index', 'u743/r1267398000000/aL\'Arc~en~Ciel', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/17666437.jpg'
+put 'jili2506:index', 'u743/r1267398000000/aL\'Arc~en~Ciel', 'c:url', 'http://www.last.fm/music/L%27Arc%7Een%7ECiel'
+put 'jili2506:index', 'u743/r1267398000000/aL\'Arc~en~Ciel', 't:japanese', 1267398000000
+
+
+# 1956
+put 'jili2506:index', 'u1956/r1222812000000/aHubert Kah', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/60802893.png'
+put 'jili2506:index', 'u1956/r1222812000000/aHubert Kah', 'c:url', 'http://www.last.fm/music/Hubert+Kah'
+put 'jili2506:index', 'u1956/r1222812000000/aHubert Kah', 't:german', 1222812000000
+put 'jili2506:index', 'u1956/r1222812000000/aHubert Kah', 't:beautifle', 1222812000000
+
+
+# 81
+put 'jili2506:index', '81/r1220220000000/aB.G. Knocc Out', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/69652.jpg'
+put 'jili2506:index', '81/r1220220000000/aB.G. Knocc Out', 'c:url', 'http://www.last.fm/music/B.G.%2BKnocc%2BOut%2B%2526%2BDresta'
+put 'jili2506:index', '81/r1220220000000/aB.G. Knocc Out', 't:gangsta rap', 1220220000000
+put 'jili2506:index', '81/r1220220000000/aB.G. Knocc Out', 't:g-funk', 1220220000000
+put 'jili2506:index', '81/r1220220000000/aB.G. Knocc Out', 't:westcoast', 1220220000000
+
+put 'jili2506:index', '81/r1254348000000/aBig Moves', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/58178415.jpg'
+put 'jili2506:index', '81/r1254348000000/aBig Moves', 'c:url', 'http://www.last.fm/music/Big+Moves'
+put 'jili2506:index', '81/r1254348000000/aBig Moves', 't:female vocalist', 1254348000000
+put 'jili2506:index', '81/r1254348000000/aBig Moves', 't:indie', 1254348000000
+
+
+# 921
+put 'jili2506:index', 'u921/r1222812000000/aThe Distillers', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/80603.jpg'
+put 'jili2506:index', 'u921/r1222812000000/aThe Distillers', 'c:url', 'http://www.last.fm/music/The+Distillers'
+put 'jili2506:index', 'u921/r1222812000000/aThe Distillers', 't:female vocalist', 1222812000000
+
+put 'jili2506:index', 'u921/r1267398000000/aD.R.I.', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/35338609.jpg'
+put 'jili2506:index', 'u921/r1267398000000/aD.R.I.', 'c:url', 'http://www.last.fm/music/D.R.I.'
+put 'jili2506:index', 'u921/r1267398000000/aD.R.I.', 't:punk', 1267398000000
+put 'jili2506:index', 'u921/r1267398000000/aD.R.I.', 't:crossover', 1267398000000
+
+
+# 1507
+put 'jili2506:index', 'u1507/r1277935200000/aGorillaz', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/45388159.png'
+put 'jili2506:index', 'u1507/r1277935200000/aGorillaz', 'c:url', 'http://www.last.fm/music/Gorillaz'
+put 'jili2506:index', 'u1507/r1277935200000/aGorillaz', 't:hip-hop', 1277935200000
+
+put 'jili2506:index', 'u1507/r1277935200000/aMala Rodriguez', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/5331127.jpg'
+put 'jili2506:index', 'u1507/r1277935200000/aMala Rodriguez', 'c:url', 'http://www.last.fm/music/Mala+Rodr%C3%ADguez'
+put 'jili2506:index', 'u1507/r1277935200000/aMala Rodriguez', 't:rap', 1277935200000
+
+
+# 1099
+put 'jili2506:index', 'u1099/r1180648800000/aGoldfrapp', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/36460899.png'
+put 'jili2506:index', 'u1099/r1180648800000/aGoldfrapp', 'c:url', 'http://www.last.fm/music/Goldfrapp'
+put 'jili2506:index', 'u1099/r1180648800000/aGoldfrapp', 't:female vocalists', 1180648800000
+put 'jili2506:index', 'u1099/r1180648800000/aGoldfrapp', 't:electronica', 1180648800000
+put 'jili2506:index', 'u1099/r1180648800000/aGoldfrapp', 't:electronic', 1180648800000
+
+
+# 1801
+put 'jili2506:index', 'u1801/r1225494000000/aAmon Tobin', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/39100865.png'
+put 'jili2506:index', 'u1801/r1225494000000/aAmon Tobin', 'c:url', 'http://www.last.fm/music/Amon+Tobin'
+put 'jili2506:index', 'u1801/r1225494000000/aAmon Tobin', 't:essential instrumental versions', 1225494000000
+
+put 'jili2506:index', 'u1801/r1225494000000/aLamb', 'c:pictureurl', 'http://userserve-ak.last.fm/serve/252/3404.jpg'
+put 'jili2506:index', 'u1801/r1225494000000/aLamb', 'c:url', 'http://www.last.fm/music/Lamb'
+put 'jili2506:index', 'u1801/r1225494000000/aLamb', 't:essential instrumental versions', 1225494000000
+

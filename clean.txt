@@ -1,0 +1,6 @@
+disable 'jili2506:hbase'
+disable 'jili2506:index'
+
+drop 'jili2506:hbase'
+drop 'jili2506:index'
+

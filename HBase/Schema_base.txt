@@ -1,0 +1,276 @@
+create 'jili2506:hbase', 'c', {NAME=>'t', VERSIONS=>3}, 'f'
+
+# 2
+put 'jili2506:hbase', '2/Morcheeba', 'c:weight', 11690
+put 'jili2506:hbase', '2/Morcheeba', 't:chillout', 1238536800000
+put 'jili2506:hbase', '2/Morcheeba', 't:downtempo', 1238536800000
+put 'jili2506:hbase', '2/Morcheeba', 't:electronic', 1238536800000
+put 'jili2506:hbase', '2/Morcheeba', 'f:275', 0
+put 'jili2506:hbase', '2/Morcheeba', 'f:428', 0
+
+put 'jili2506:hbase', '2/China Crisis', 't:new wave', 1241128800000
+put 'jili2506:hbase', '2/China Crisis', 't:synth pop', 1241128800000
+put 'jili2506:hbase', '2/China Crisis', 't:classic 80s', 1241128800000
+put 'jili2506:hbase', '2/China Crisis', 'f:275', 0
+put 'jili2506:hbase', '2/China Crisis', 'f:428', 0
+
+
+# 3
+put 'jili2506:hbase', '3/Pleq', 'c:weight', 13176
+put 'jili2506:hbase', '3/Pleq', 't:ambient', 1264978800000
+put 'jili2506:hbase', '3/Pleq', 't:downtempo', 1235862000000
+put 'jili2506:hbase', '3/Pleq', 't:avant-garde', 1233442800000
+put 'jili2506:hbase', '3/Pleq', 'f:78', 0
+put 'jili2506:hbase', '3/Pleq', 'f:460', 0
+
+put 'jili2506:hbase', '3/Go Koyashiki', 'c:weight', 236
+put 'jili2506:hbase', '3/Go Koyashiki', 't:experimental', 1233442800000
+put 'jili2506:hbase', '3/Go Koyashiki', 't:melancholy', 1254348000000
+put 'jili2506:hbase', '3/Go Koyashiki', 't:october man recordings', 1233442800000
+put 'jili2506:hbase', '3/Go Koyashiki', 'f:78', 0
+put 'jili2506:hbase', '3/Go Koyashiki', 'f:460', 0
+
+
+# 5
+put 'jili2506:hbase', '5/Air', 'c:weight', 181
+put 'jili2506:hbase', '5/Air', 't:autumn', 1207000800000
+put 'jili2506:hbase', '5/Air', 'f:228', 0
+put 'jili2506:hbase', '5/Air', 'f:1271', 0
+
+put 'jili2506:hbase', '5/The Tiger Lillies', 'c:weight', 826
+put 'jili2506:hbase', '5/The Tiger Lillies', 't:autumn', 1207000800000
+put 'jili2506:hbase', '5/The Tiger Lillies', 'f:228', 0
+put 'jili2506:hbase', '5/The Tiger Lillies', 'f:1271', 0
+
+put 'jili2506:hbase', '5/CAKE', 'c:weight', 298
+put 'jili2506:hbase', '5/CAKE', 't:autumn', 1207000800000
+put 'jili2506:hbase', '5/CAKE', 'f:228', 0
+put 'jili2506:hbase', '5/CAKE', 'f:1271', 0
+
+put 'jili2506:hbase', '5/Red Hot Chili Peppers', 'c:weight', 192
+put 'jili2506:hbase', '5/Red Hot Chili Peppers', 't:winter', 1280613600000
+put 'jili2506:hbase', '5/Red Hot Chili Peppers', 'f:228', 0
+put 'jili2506:hbase', '5/Red Hot Chili Peppers', 'f:1271', 0
+
+# 6
+put 'jili2506:hbase', '6/Teta Lando', 'c:weight', 34
+put 'jili2506:hbase', '6/Teta Lando', 't:kwasa', 1293836400000
+put 'jili2506:hbase', '6/Teta Lando', 't:semba', 1293836400000
+put 'jili2506:hbase', '6/Teta Lando', 't:angola', 1293836400000
+put 'jili2506:hbase', '6/Teta Lando', 't:world music', 1293836400000
+put 'jili2506:hbase', '6/Teta Lando', 'f:1271', 0
+put 'jili2506:hbase', '6/Teta Lando', 'f:1697', 0
+
+put 'jili2506:hbase', '6/Flagelo Urbano', 'c:weight', 33
+put 'jili2506:hbase', '6/Flagelo Urbano', 't:luso hip hop', 1228086000000
+put 'jili2506:hbase', '6/Flagelo Urbano', 't:underground hip hp', 1293836400000
+put 'jili2506:hbase', '6/Flagelo Urbano', 'f:1271', 0
+put 'jili2506:hbase', '6/Flagelo Urbano', 'f:1697', 0
+
+put 'jili2506:hbase', '6/EPMD', 't:hip-hop', 1228086000000
+put 'jili2506:hbase', '6/EPMD', 't:rap', 1228086000000
+put 'jili2506:hbase', '6/EPMD', 't:new york', 1228086000000
+put 'jili2506:hbase', '6/EPMD', 'f:1271', 0
+put 'jili2506:hbase', '6/EPMD', 'f:1697', 0
+
+# 275
+put 'jili2506:hbase', '275/Timbaland', 't:awesome', 1222812000000
+put 'jili2506:hbase', '275/Timbaland', 'f:2', 0
+put 'jili2506:hbase', '275/Timbaland', 'f:1099', 0
+
+put 'jili2506:hbase', '275/Ray LaMontagne', 'c:weight', 30
+put 'jili2506:hbase', '275/Ray LaMontagne', 't:awesome', 1233442800000
+put 'jili2506:hbase', '275/Ray LaMontagne', 't:mmmm', 1233442800000
+put 'jili2506:hbase', '275/Ray LaMontagne', 'f:2', 0
+put 'jili2506:hbase', '275/Ray LaMontagne', 'f:1099', 0
+
+put 'jili2506:hbase', '275/X-Patriate (Alan J. Lipman)', 'c:weight', 279
+put 'jili2506:hbase', '275/X-Patriate (Alan J. Lipman)', 't:mmmm', 1222812000000
+put 'jili2506:hbase', '275/X-Patriate (Alan J. Lipman)', 't:shivers', 1222812000000
+put 'jili2506:hbase', '275/X-Patriate (Alan J. Lipman)', 'f:2', 0
+put 'jili2506:hbase', '275/X-Patriate (Alan J. Lipman)', 'f:1099', 0
+
+# 428
+put 'jili2506:hbase', '428/Duran Duran', 'c:weight', 61012
+put 'jili2506:hbase', '428/Duran Duran', 't:new wave', 1249077600000
+put 'jili2506:hbase', '428/Duran Duran', 't:pop', 1249077600000
+put 'jili2506:hbase', '428/Duran Duran', 't:duran duran', 1249077600000
+put 'jili2506:hbase', '428/Duran Duran', 'f:2', 0
+
+put 'jili2506:hbase', '428/Depeche Mode', 'c:weight', 6337
+put 'jili2506:hbase', '428/Depeche Mode', 't:one of the best songs ever', 1170284400000
+put 'jili2506:hbase', '428/Depeche Mode', 'f:2', 0
+
+put 'jili2506:hbase', '428/The B-52\'s', 'c:weight', 2149
+put 'jili2506:hbase', '428/The B-52\'s', 't:new wave', 1249077600000
+put 'jili2506:hbase', '428/The B-52\'s', 't:80\'s', 1249077600000
+put 'jili2506:hbase', '428/The B-52\'s', 'f:2', 0
+
+
+# 78
+put 'jili2506:hbase', '78/Autechre', 'c:weight', 779
+put 'jili2506:hbase', '78/Autechre', 't:ambient', 1222812000000
+put 'jili2506:hbase', '78/Autechre', 't:experimental', 1222812000000
+put 'jili2506:hbase', '78/Autechre', 't:idm', 1222812000000
+put 'jili2506:hbase', '78/Autechre', 'f:1801', 0
+put 'jili2506:hbase', '78/Autechre', 'f:3', 0
+
+put 'jili2506:hbase', '78/B. Fleischmann', 'c:weight', 332
+put 'jili2506:hbase', '78/B. Fleischmann', 't:ambient', 1222812000000
+put 'jili2506:hbase', '78/B. Fleischmann', 't:experimental', 1222812000000
+put 'jili2506:hbase', '78/B. Fleischmann', 't:idm', 1222812000000
+put 'jili2506:hbase', '78/B. Fleischmann', 'f:1801', 0
+put 'jili2506:hbase', '78/B. Fleischmann', 'f:3', 0
+
+
+# 460
+put 'jili2506:hbase', '460/Wolfgang Amadeus Mozart', 'c:weight', 1042
+put 'jili2506:hbase', '460/Wolfgang Amadeus Mozart', 'f:3', 0
+
+put 'jili2506:hbase', '460/Clint Mansell', 'c:weight', 252
+put 'jili2506:hbase', '460/Clint Mansell', 't:music for my soul', 1220220000000
+put 'jili2506:hbase', '460/Clint Mansell', 'f:3', 0
+
+put 'jili2506:hbase', '460/Dolphin', 'c:weight', 182
+put 'jili2506:hbase', '460/Dolphin', 't:experimental', 1193871600000
+put 'jili2506:hbase', '460/Dolphin', 't:art rock', 1222812000000
+put 'jili2506:hbase', '460/Dolphin', 't:powerful', 1222812000000
+put 'jili2506:hbase', '460/Dolphin', 'f:3', 0
+
+
+# 228
+put 'jili2506:hbase', '228/Bob Dylan', 'c:weight', 17
+put 'jili2506:hbase', '228/Bob Dylan', 't:singer-songwriter', 1170284400000
+put 'jili2506:hbase', '228/Bob Dylan', 't:classic rock', 1167606000000
+put 'jili2506:hbase', '228/Bob Dylan', 't:folk', 1167606000000
+put 'jili2506:hbase', '228/Bob Dylan', 't:folk rock', 1170284400000
+put 'jili2506:hbase', '228/Bob Dylan', 'f:5', 0
+
+put 'jili2506:hbase', '228/Neil Young', 'c:weight', 14
+put 'jili2506:hbase', '228/Neil Young', 't:singer-songwriter', 1167606000000
+put 'jili2506:hbase', '228/Neil Young', 't:classic rock', 1167606000000
+put 'jili2506:hbase', '228/Neil Young', 't:canadian', 1167606000000
+put 'jili2506:hbase', '228/Neil Young', 't:folk rock', 1167606000000
+put 'jili2506:hbase', '228/Neil Young', 'f:5', 0
+
+
+# 1271
+put 'jili2506:hbase', '1271/The Beatles', 'c:weight', 610
+put 'jili2506:hbase', '1271/The Beatles', 't:1970', 1188597600000
+put 'jili2506:hbase', '1271/The Beatles', 'f:5', 0
+put 'jili2506:hbase', '1271/The Beatles', 'f:6', 0
+
+put 'jili2506:hbase', '1271/The Who', 'c:weight', 295
+put 'jili2506:hbase', '1271/The Who', 't:1970', 1188597600000
+put 'jili2506:hbase', '1271/The Who', 't:1969', 1188597600000
+put 'jili2506:hbase', '1271/The Who', 't:1965', 1264978800000
+put 'jili2506:hbase', '1271/The Who', 'f:5', 0
+put 'jili2506:hbase', '1271/The Who', 'f:6', 0
+
+
+# 1697
+put 'jili2506:hbase', '1697/Pink Floyd', 'c:weight', 197
+put 'jili2506:hbase', '1697/Pink Floyd', 't:psychedelic rock', 1280613600000
+put 'jili2506:hbase', '1697/Pink Floyd', 't:classic rock', 1280613600000
+put 'jili2506:hbase', '1697/Pink Floyd', 't:progressive rock', 1280613600000
+put 'jili2506:hbase', '1697/Pink Floyd', 'f:6', 0
+
+put 'jili2506:hbase', '1697/Barrington Levy', 'c:weight', 231
+put 'jili2506:hbase', '1697/Barrington Levy', 't:reggae', 1288566000000
+put 'jili2506:hbase', '1697/Barrington Levy', 't:country: jamaica', 1288566000000
+put 'jili2506:hbase', '1697/Barrington Levy', 'f:6', 0
+
+put 'jili2506:hbase', '1697/Aswad', 'c:weight', 471
+put 'jili2506:hbase', '1697/Aswad', 't:country: britain', 1217541600000
+put 'jili2506:hbase', '1697/Aswad', 'f:6', 0
+
+
+# 9
+put 'jili2506:hbase', '9/TRAX', 'c:weight', 430
+put 'jili2506:hbase', '9/TRAX', 't:specials to 3mmey', 1209592800000
+put 'jili2506:hbase', '9/TRAX', 'f:743', 0
+put 'jili2506:hbase', '9/TRAX', 'f:1956', 0
+
+put 'jili2506:hbase', '9/GD&TOP', 'c:weight', 241
+put 'jili2506:hbase', '9/GD&TOP', 't:hiphop', 1291158000000
+put 'jili2506:hbase', '9/GD&TOP', 't:kpop', 1291158000000
+put 'jili2506:hbase', '9/GD&TOP', 't:top', 1291158000000
+put 'jili2506:hbase', '9/GD&TOP', 't:gd', 1291158000000
+put 'jili2506:hbase', '9/GD&TOP', 'f:743', 0
+put 'jili2506:hbase', '9/GD&TOP', 'f:1956', 0
+
+
+# 743
+put 'jili2506:hbase', '743/Lady Gaga', 'c:weight', 4390
+put 'jili2506:hbase', '743/Lady Gaga', 't:electronic', 1235862000000
+put 'jili2506:hbase', '743/Lady Gaga', 't:dance', 1235862000000
+put 'jili2506:hbase', '743/Lady Gaga', 't:00s', 1243807200000
+put 'jili2506:hbase', '743/Lady Gaga', 't:american', 1243807200000
+put 'jili2506:hbase', '743/Lady Gaga', 'f:9', 0
+
+put 'jili2506:hbase', '743/L\'Arc~en~Ciel', 'c:weight', 1314
+put 'jili2506:hbase', '743/L\'Arc~en~Ciel', 't:japanese', 1267398000000
+put 'jili2506:hbase', '743/L\'Arc~en~Ciel', 'f:9', 0
+
+
+# 1956
+put 'jili2506:hbase', '1956/Hubert Kah', 'c:weight', 5321
+put 'jili2506:hbase', '1956/Hubert Kah', 't:german', 1222812000000
+put 'jili2506:hbase', '1956/Hubert Kah', 't:beautifle', 1222812000000
+put 'jili2506:hbase', '1956/Hubert Kah', 'f:9', 0
+
+
+# 81
+put 'jili2506:hbase', '81/B.G. Knocc Out', 'c:weight', 477
+put 'jili2506:hbase', '81/B.G. Knocc Out', 't:gangsta rap', 1220220000000
+put 'jili2506:hbase', '81/B.G. Knocc Out', 't:g-funk', 1220220000000
+put 'jili2506:hbase', '81/B.G. Knocc Out', 't:westcoast', 1220220000000
+put 'jili2506:hbase', '81/B.G. Knocc Out', 'f:921', 0
+put 'jili2506:hbase', '81/B.G. Knocc Out', 'f:1507', 0
+
+put 'jili2506:hbase', '81/Big Moves', 'c:weight', 2020
+put 'jili2506:hbase', '81/Big Moves', 't:female vocalist', 1254348000000
+put 'jili2506:hbase', '81/Big Moves', 't:indie', 1254348000000
+put 'jili2506:hbase', '81/Big Moves', 'f:921', 0
+put 'jili2506:hbase', '81/Big Moves', 'f:1507', 0
+
+
+# 921
+put 'jili2506:hbase', '921/The Distillers', 'c:weight', 526
+put 'jili2506:hbase', '921/The Distillers', 't:female vocalist', 1222812000000
+put 'jili2506:hbase', '921/The Distillers', 'f:81', 0
+
+put 'jili2506:hbase', '921/D.R.I.', 'c:weight', 508
+put 'jili2506:hbase', '921/D.R.I.', 't:punk', 1267398000000
+put 'jili2506:hbase', '921/D.R.I.', 't:crossover', 1267398000000
+put 'jili2506:hbase', '921/D.R.I.', 'f:81', 0
+
+
+# 1507
+put 'jili2506:hbase', '1507/Gorillaz', 'c:weight', 92
+put 'jili2506:hbase', '1507/Gorillaz', 't:hip-hop', 1277935200000
+put 'jili2506:hbase', '1507/Gorillaz', 'f:81', 0
+
+put 'jili2506:hbase', '1507/Mala Rodriguez', 'c:weight', 54
+put 'jili2506:hbase', '1507/Mala Rodriguez', 't:rap', 1277935200000
+put 'jili2506:hbase', '1507/Mala Rodriguez', 'f:81', 0
+
+
+# 1099
+put 'jili2506:hbase', '1099/Goldfrapp', 'c:weight', 237
+put 'jili2506:hbase', '1099/Goldfrapp', 't:female vocalists', 1180648800000
+put 'jili2506:hbase', '1099/Goldfrapp', 't:electronica', 1180648800000
+put 'jili2506:hbase', '1099/Goldfrapp', 't:electronic', 1180648800000
+put 'jili2506:hbase', '1099/Goldfrapp', 'f:275', 0
+
+
+# 1801
+put 'jili2506:hbase', '1801/Amon Tobin', 'c:weight', 31
+put 'jili2506:hbase', '1801/Amon Tobin', 't:essential instrumental versions', 1225494000000
+put 'jili2506:hbase', '1801/Amon Tobin', 'f:78', 0
+
+put 'jili2506:hbase', '1801/Lamb', 'c:weight', 42
+put 'jili2506:hbase', '1801/Lamb', 't:essential instrumental versions', 1225494000000
+put 'jili2506:hbase', '1801/Lamb', 'f:78', 0
+
+
